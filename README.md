@@ -1,4 +1,4 @@
-# python-ds
+# python ds
 Python DS Refresher
 
 TOPICS:
